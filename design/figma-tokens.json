@@ -1,0 +1,60 @@
+{
+  "name": "CareMom Design System",
+  "version": "2.1",
+  "colors": {
+    "WarmCoral": { "light": "#F57A85", "dark": "#FA8A94" },
+    "PrimaryPink": { "light": "#E86B9E", "dark": "#F27AAD" },
+    "SoftPeach": { "light": "#FFD9C7", "dark": "#382E33" },
+    "Lavender": { "light": "#D1B8E0", "dark": "#665973" },
+    "CreamBackground": { "light": "#FCF5F5", "dark": "#1C1A1F" },
+    "CardBackground": { "light": "#FFFFFF", "dark": "#2B2B2E" },
+    "TextPrimary": { "light": "#382E40", "dark": "#F5F0F2" },
+    "TextSecondary": { "light": "#6B6673", "dark": "#B8ADB8" },
+    "EntryIllness": { "light": "#F27380" },
+    "EntryMedication": { "light": "#A680D9" },
+    "EntryFeeding": { "light": "#F2A659" },
+    "EntrySleep": { "light": "#73A6E6" },
+    "EntryDoctor": { "light": "#5CB8A8" },
+    "BoyBlue": { "light": "#6B9EF2" },
+    "BoyBlueSoft": { "light": "#C7E0FF" },
+    "GirlPeach": { "light": "#FFD9C7" }
+  },
+  "typography": {
+    "largeTitle": { "size": 34, "weight": "Bold" },
+    "title2": { "size": 22, "weight": "Bold" },
+    "title3": { "size": 20, "weight": "Semibold" },
+    "headline": { "size": 17, "weight": "Semibold" },
+    "body": { "size": 17, "weight": "Regular" },
+    "subheadline": { "size": 15, "weight": "Regular" },
+    "caption": { "size": 12, "weight": "Regular" },
+    "caption2": { "size": 11, "weight": "Medium" }
+  },
+  "spacing": {
+    "cornerRadius": 20,
+    "cardCornerRadius": 16,
+    "fabSize": 60,
+    "minTapTarget": 48,
+    "screenPadding": 16,
+    "cardPadding": 14,
+    "sectionGap": 20
+  },
+  "screens": [
+    "01 Onboarding",
+    "02 Diary",
+    "03 Diary Empty",
+    "04 Add Entry",
+    "05 Quick Temperature",
+    "06 Entry Detail",
+    "07 Medications",
+    "08 Statistics",
+    "09 Gallery",
+    "10 Settings",
+    "11 Children List",
+    "12 Child Profile",
+    "13 Growth",
+    "14 Vaccinations",
+    "15 App Lock",
+    "16 Widget Small",
+    "17 Widget Medium"
+  ]
+}
